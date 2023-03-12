@@ -280,7 +280,7 @@ return ds_resultado_w;
 end OPTY_OBTER_RESULT_AVALIACAO_QUA;
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Pesquisar atendimento duplicado, a base lógica do script tem aplicação para CPR da Pessoa Física, Nota, etc...
+-- Pesquisar atendimento duplicado, a base lógica do script tem aplicação para CPF da Pessoa Física, Nota, etc...
 
 Select
 NR_ATENDIMENTO,
